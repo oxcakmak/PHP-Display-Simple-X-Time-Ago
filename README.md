@@ -1,7 +1,5 @@
-# PHP-Display-Simple-X-Time-Ago
-PHP Display Simple X Time Ago<br>
-Using:<br>
-``
+
+```
 $searchTimeAgo = [
     "%yearAgo%",
     "%monthAgo%",
@@ -18,4 +16,4 @@ $timeSpanLang = [
     $lang['t_time_ago_minute_lowercase'],
     $lang['t_time_ago_now_lowercase']
 ];
-``
+```

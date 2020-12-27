@@ -1,4 +1,4 @@
-<h1>PHP Display simple X Time Ago<h1>
+<h1>PHP Display simple X Time Ago</h1>
 
 Default text string<br>
 Fixed variable part (Will not be changed)<br>
